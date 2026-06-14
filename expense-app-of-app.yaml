@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/rajalingarao/10.9.expense-app-argocd.git
+    repoURL: https://github.com/rajalingarao/10.8.expense-app-argocd.git
     targetRevision: main   # or a tag/commit hash
     path: applications        # folder in repo with Kubernetes YAMLs
   destination:
