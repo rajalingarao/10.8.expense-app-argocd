@@ -1,3 +1,6 @@
+Repos:
+10.1.expense-tf-aws-eks-argocd
+
 
 Bastion server:
 ------------------------
